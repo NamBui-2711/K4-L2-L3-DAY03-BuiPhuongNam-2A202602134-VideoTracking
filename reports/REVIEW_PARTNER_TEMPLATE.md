@@ -1,5 +1,5 @@
 # Peer review — Day 3
-
+****** EM LÀM SOLO NÊN EM NGHĨ EM KHÔNG CẦN LÀM FILE NÀY Ạ.
 Chép file này thành `reports/review_partner.md`. Reviewer chỉ ghi finding; tác giả
 tự sửa bài của mình và điền closure.
 
